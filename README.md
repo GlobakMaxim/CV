@@ -14,6 +14,7 @@ GitHub: [GlobakMaxim](https://github.com/GlobakMaxim)
 - Fabric & Google Analytics & FBSDK
 - MVC, MVVM
 - iOS Human interface guidelines
+- Unit tests
 - a little bit node.js
 
 ### Work Experience
