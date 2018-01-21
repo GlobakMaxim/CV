@@ -1,5 +1,6 @@
 ## Globak Maxim
 iOS developer
+![photo](./photo.jpg)
 
 ### Personal Information
 Phone: +7 (926) 582-03-04  
@@ -22,6 +23,12 @@ GitHub: [GlobakMaxim](https://github.com/GlobakMaxim)
   - IELTS 5.5
 
 ### Work Experience
+
+* **Cocoaheads Russia** *OpenSource* - [GitHub](https://github.com/cocoaheadsru/application) [AppStore](https://itunes.apple.com/ru/app/cocoaheads-russia/id1257534277?mt=8)
+* **Garage** *Pet-project* - [GitHub](https://github.com/GlobakMaxim/GearApp) [AppStore](https://itunes.apple.com/ru/app/garage-mobile-service-book/id1293507369?mt=8)
+
+---
+
 * May 2016 - Present  
 **iOS Developer** at Itella Connexions LLC [http://icnx.ru](http://icnx.ru) Moscow  
 	- *The development of mobile CRM systems for iOS.* `Full circle` `In-House`
@@ -37,7 +44,8 @@ Clients: Philip Morris, Audi, VW, Philips, Pernod Ricard
     - *Writing new functionality*
     - *The publication of the application in AppStore*
     - *ASO*  
-Technology: `Objective-C, Realm, MVC, StoreKit, Core Location & Google maps SDK, Google Analytics, etc.`
+Technology: `Objective-C, Realm, MVC, StoreKit, Core Location & Google maps SDK, Google Analytics, etc.`  
+[Screenshot]()
 
 * February 2014 — December 2014 (11 months)  
 **SEO specialist** at Effective site LLC [http://www.analizsaita.ru](www.analizsaita.ru) Moscow   
