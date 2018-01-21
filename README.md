@@ -1,6 +1,6 @@
 ## Globak Maxim
+<img src="./photo.jpg" width="160px">
 iOS developer
-![photo](./photo.jpg)
 
 ### Personal Information
 Phone: +7 (926) 582-03-04  
@@ -45,7 +45,7 @@ Clients: Philip Morris, Audi, VW, Philips, Pernod Ricard
     - *The publication of the application in AppStore*
     - *ASO*  
 Technology: `Objective-C, Realm, MVC, StoreKit, Core Location & Google maps SDK, Google Analytics, etc.`  
-[Screenshot]()
+[Screenshot](https://github.com/GlobakMaxim/CV/blob/master/krugosvet.jpg)
 
 * February 2014 — December 2014 (11 months)  
 **SEO specialist** at Effective site LLC [http://www.analizsaita.ru](www.analizsaita.ru) Moscow   
