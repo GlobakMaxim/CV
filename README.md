@@ -4,7 +4,7 @@ iOS developer
 
 ### Personal Information
 Phone: +7 (926) 582-03-04  
-Email: [Globak.Maxim@gmail.com](mailto:globak.maxim@gmail.com)  
+Email: [Maxim.Globak@gmail.com](mailto:Maxim.Globak@gmail.com)  
 Date of Birth: 19th December 1990  
 GitHub: [GlobakMaxim](https://github.com/GlobakMaxim)  
 
