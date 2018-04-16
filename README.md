@@ -20,7 +20,7 @@ GitHub: [GlobakMaxim](https://github.com/GlobakMaxim)
   - StoreKit, CoreLocation
 ##### Other
   - Node.js, PHP (Laravel)
-  - IELTS 5.5
+  - IELTS 5.5 (Speaking 6.5)
 
 ### Work Experience
 
@@ -29,12 +29,17 @@ GitHub: [GlobakMaxim](https://github.com/GlobakMaxim)
 
 ---
 
-* May 2016 - Present  
+* February 2018 - Present
+**iOS Developer** at [ozon.ru](https://www.ozon.ru) & [AppStore](https://itunes.apple.com/ru/app/ozon-ru-интернет-магазин/id407804998?mt=8) Moscow
+  -  *Development of the main application*  
+Technology: `Objective-C, Swift, VIPER, etc.`  
+
+* May 2016 - February 2018 (22 months)
 **iOS Developer** at Itella Connexions LLC [http://icnx.ru](http://icnx.ru) Moscow  
-	- *The development of mobile CRM systems for iOS.* `Full circle` `In-House`
-	- *The development of medium to large mobile applications in a team.*
-	- *Full development cycle and design of small mobile applications and communication with the backend team.*
-	- *Consultation on mobile application development and design.*  
+  - *The development of mobile CRM systems for iOS.* `Full circle` `In-House`
+  - *The development of medium to large mobile applications in a team.*
+  - *Full development cycle and design of small mobile applications and communication with the backend team.*
+  - *Consultation on mobile application development and design.*  
 Technology: `Objective-C, Swift, CoreData, ReactiveCocoa, MVVM, Fabric, etc.`  
 Clients: Philip Morris, Audi, VW, Philips, Pernod Ricard
 
