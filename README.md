@@ -1,12 +1,13 @@
 ## Globak Maxim
 <img src="./photo.jpg" width="160px">
-iOS developer
+iOS Engineer
 
 ### Personal Information
-Phone: +7 (926) 582-03-04  
-Email: [Maxim.Globak@gmail.com](mailto:Maxim.Globak@gmail.com)  
+Phone: +1 (431) 588-6282  
+Email: [Maxim.Globak@gmail.com](mailto:Maxim.Globak@gmail.com) (Prefered)  
 Date of Birth: 19th December 1990  
 GitHub: [GlobakMaxim](https://github.com/GlobakMaxim)  
+LinkedIn: [Globak Maxim](https://www.linkedin.com/in/maxim-globak-a412a877/)  
 
 ### Skills
 ##### iOS
@@ -14,7 +15,7 @@ GitHub: [GlobakMaxim](https://github.com/GlobakMaxim)
   - Core Data, Realm
   - AFNetworking, Alamofire, URLSession
   - Fabric, Google Analytics, FBSDK
-  - MVC, MVVM
+  - MVC, MVVM, VIPER, Clean Swift
   - iOS Human interface guidelines
   - Unit tests
   - StoreKit, CoreLocation
@@ -31,8 +32,11 @@ GitHub: [GlobakMaxim](https://github.com/GlobakMaxim)
 
 * February 2018 - Present
 **iOS Developer** at [ozon.ru](https://www.ozon.ru) & [AppStore](https://itunes.apple.com/ru/app/ozon-ru-интернет-магазин/id407804998?mt=8) Moscow
-  -  *Development of the main application*  
-Technology: `Objective-C, Swift, VIPER, etc.`  
+  - *Development of specific features and active communication with "feature team"*  
+  - *Participation in the choice of technology stack*
+  - *Participation in the organization of the development process*
+  - *Took part in building UI*  
+Technology: `Objective-C & VIPER, Swift & Clean-Swift, self-written libraries`
 
 * May 2016 - February 2018 (22 months)
 **iOS Developer** at Itella Connexions LLC [http://icnx.ru](http://icnx.ru) Moscow  
