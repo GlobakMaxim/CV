@@ -1,11 +1,11 @@
 ## Globak Maxim
-<img src="./photo.jpg" width="160px">
 iOS Engineer
 
 ### Personal Information
 Phone: +1 (431) 588-6282  
 Email: [Maxim.Globak@gmail.com](mailto:Maxim.Globak@gmail.com) (Prefered)  
 Date of Birth: 19th December 1990  
+Location: Toronto, ON, Canada (Permanent Resident)  
 GitHub: [GlobakMaxim](https://github.com/GlobakMaxim)  
 LinkedIn: [Globak Maxim](https://www.linkedin.com/in/maxim-globak-a412a877/)  
 
@@ -30,15 +30,15 @@ LinkedIn: [Globak Maxim](https://www.linkedin.com/in/maxim-globak-a412a877/)
 
 ---
 
-* February 2018 - Present
-**iOS Developer** at [ozon.ru](https://www.ozon.ru) & [AppStore](https://itunes.apple.com/ru/app/ozon-ru-интернет-магазин/id407804998?mt=8) Moscow
+* February 2018 - November 2018 (10 months)  
+**iOS Developer** at [OZON.ru](https://www.ozon.ru) & [AppStore](https://itunes.apple.com/ru/app/ozon-ru-интернет-магазин/id407804998?mt=8) Moscow
   - *Development of specific features and active communication with "feature team"*  
   - *Participation in the choice of technology stack*
   - *Participation in the organization of the development process*
   - *Took part in building UI*  
 Technology: `Objective-C & VIPER, Swift & Clean-Swift, self-written libraries`
 
-* May 2016 - February 2018 (22 months)
+* May 2016 - February 2018 (22 months)  
 **iOS Developer** at Itella Connexions LLC [http://icnx.ru](http://icnx.ru) Moscow  
   - *The development of mobile CRM systems for iOS.* `Full circle` `In-House`
   - *The development of medium to large mobile applications in a team.*
