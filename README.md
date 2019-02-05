@@ -1,16 +1,14 @@
-## Globak Maxim
-iOS Engineer
-
-### Personal Information
+## Globak Maxim - iOS Developer
+#### Personal Information
 Phone: +1 (431) 588-6282  
-Email: [Maxim.Globak@gmail.com](mailto:Maxim.Globak@gmail.com) (Prefered)  
+Email: [Maxim.Globak@gmail.com](mailto:Maxim.Globak@gmail.com) **- Prefered**  
 Date of Birth: 19th December 1990  
-Location: Toronto, ON, Canada (Permanent Resident)  
+Location: Toronto, ON, Canada **- Permanent Resident**  
 GitHub: [GlobakMaxim](https://github.com/GlobakMaxim)  
-LinkedIn: [Globak Maxim](https://www.linkedin.com/in/maxim-globak-a412a877/)  
+LinkedIn: [Globak Maxim](https://linkedin.com/in/globak)  
 
-### Skills
-##### iOS
+#### Skills
+###### iOS
   - Objective-C, Swift
   - Core Data, Realm
   - AFNetworking, Alamofire, URLSession
@@ -19,19 +17,20 @@ LinkedIn: [Globak Maxim](https://www.linkedin.com/in/maxim-globak-a412a877/)
   - iOS Human interface guidelines
   - Unit tests
   - StoreKit, CoreLocation
-##### Other
+###### Other
   - Node.js, PHP (Laravel)
   - IELTS 5.5 (Speaking 6.5)
 
-### Work Experience
+## Work Experience
 
-* **Cocoaheads Russia** *OpenSource* - [GitHub](https://github.com/cocoaheadsru/application) [AppStore](https://itunes.apple.com/ru/app/cocoaheads-russia/id1257534277?mt=8)
-* **Garage** *Pet-project* - [GitHub](https://github.com/GlobakMaxim/GearApp) [AppStore](https://itunes.apple.com/ru/app/garage-mobile-service-book/id1293507369?mt=8)
+* **Cocoaheads Russia** *OpenSource project* - [GitHub link](https://github.com/cocoaheadsru/application), [AppStore link](https://itunes.apple.com/ru/app/cocoaheads-russia/id1257534277?mt=8)
+* **Garage** *Pet-project* - [GitHub link](https://github.com/GlobakMaxim/GearApp), [AppStore link](https://itunes.apple.com/ru/app/garage-mobile-service-book/id1293507369?mt=8)
 
 ---
 
 * February 2018 - November 2018 (10 months)  
-**iOS Developer** at [OZON.ru](https://www.ozon.ru) & [AppStore](https://itunes.apple.com/ru/app/ozon-ru-интернет-магазин/id407804998?mt=8) Moscow
+**iOS Developer** at [OZON.ru](https://www.ozon.ru) Moscow  
+[AppStore link](https://itunes.apple.com/ru/app/ozon-ru-интернет-магазин/id407804998?mt=8) - 220k reviews with 4.9 rating  
   - *Development of specific features and active communication with "feature team"*  
   - *Participation in the choice of technology stack*
   - *Participation in the organization of the development process*
@@ -60,7 +59,7 @@ Technology: `Objective-C, Realm, MVC, StoreKit, Core Location & Google maps SDK,
 **SEO specialist** at Effective site LLC [http://www.analizsaita.ru](www.analizsaita.ru) Moscow   
 Optimizing websites for search engines. Creating websites based on CMS systems.
 
-* September 2013 — January 2014 (8 months)
+* September 2013 — January 2014 (8 months)  
 **Director of zoohotel** at JSC Kennel Club "VUK", Zelenograd  
 Full organization of business from "zero" (zoo hotels). The project sold.
 
@@ -71,15 +70,24 @@ Full organization of business from "zero" (zoo hotels). The project sold.
 Top Hall night club (ex. Club Z1) [https://vk.com/tophallclub](https://vk.com/tophallclub) Zelenograd  
 **Waiter, bartender, photographer**  
 
-### Qualifications
-* December 2013 **Website promotion in Internet (SEO)**  
-Moscow Institute of Electronics & Technology University (Moscow, Russia)
+## Qualifications
+* November 2014 **Swift. Modern programming technology for Apple.**  
+GeekBrains, ex. "School of Programming"
 
-* September 2008 – July 2012 **Bachelor of software for computer Engineering and computer aided system (Computing resources)**  
-Moscow Institute of Electronics & Technology University (Moscow, Russia)
+* October 2014 **Objective-C. Level 2. Professioanl application and game development.**  
+GeekBrains, ex. "School of Programming"
+
+* October 2014 **Objective-C. Level 1. iPhone and iPad programming.**  
+GeekBrains, ex. "School of Programming"
+
+* December 2013 **Website promotion in Internet (SEO)**  
+National Research University of Electronic Technology (Moscow, Russia)
+
+* September 2008 – July 2012 **Bachelor degree of "Engineering and technology of electronic instrumentation"**  
+National Research University of Electronic Technology (Moscow, Russia)
 
 * October 2006 – May 2007 **System administrator courses**  
-Moscow Institute of Electronics & Technology University (Moscow, Russia)
+National Research University of Electronic Technology (Moscow, Russia)
 
 * October 2004 – May 2007 **Computer courses** (html, css, php)  
-Moscow Institute of Electronics & Technology University (Moscow, Russia)
+National Research University of Electronic Technology (Moscow, Russia)
