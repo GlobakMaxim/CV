@@ -1,11 +1,11 @@
-## Globak Maxim - iOS Developer
+## Maxim Globak - iOS Developer
 #### Personal Information
 Phone: +1 (431) 588-6282  
 Email: [Maxim.Globak@gmail.com](mailto:Maxim.Globak@gmail.com) **- Prefered**  
 Date of Birth: 19th December 1990  
 Location: Toronto, ON, Canada **- Permanent Resident**  
 GitHub: [GlobakMaxim](https://github.com/GlobakMaxim)  
-LinkedIn: [Globak Maxim](https://linkedin.com/in/globak)  
+LinkedIn: [Maxim Globak](https://linkedin.com/in/globak)  
 
 #### Skills
 ###### iOS
@@ -51,7 +51,7 @@ Clients: Philip Morris, Audi, VW, Philips, Pernod Ricard
     - *Refactoring iOS app 'Krugosvet'*
     - *Writing new functionality*
     - *The publication of the application in AppStore*
-    - *ASO*  
+    - *App store optimization (ASO)*  
 Technology: `Objective-C, Realm, MVC, StoreKit, Core Location & Google maps SDK, Google Analytics, etc.`  
 [Screenshot](https://github.com/GlobakMaxim/CV/blob/master/krugosvet.jpg)
 
@@ -70,20 +70,21 @@ Full organization of business from "zero" (zoo hotels). The project sold.
 Top Hall night club (ex. Club Z1) [https://vk.com/tophallclub](https://vk.com/tophallclub) Zelenograd  
 **Waiter, bartender, photographer**  
 
-## Qualifications
-* November 2014 **Swift. Modern programming technology for Apple.**  
-GeekBrains, ex. "School of Programming"
-
-* October 2014 **Objective-C. Level 2. Professioanl application and game development.**  
-GeekBrains, ex. "School of Programming"
-
-* October 2014 **Objective-C. Level 1. iPhone and iPad programming.**  
-GeekBrains, ex. "School of Programming"
-
-* December 2013 **Website promotion in Internet (SEO)**  
-National Research University of Electronic Technology (Moscow, Russia)
+## Education
 
 * September 2008 – July 2012 **Bachelor degree of "Engineering and technology of electronic instrumentation"**  
+National Research University of Electronic Technology (Moscow, Russia)
+---
+* October 2014 - November 2014 **Swift. Modern programming technology for Apple.**  
+GeekBrains, ex. "School of Programming"
+
+* September 2014 - October 2014 **Objective-C. Level 2. Professioanl application and game development.**  
+GeekBrains, ex. "School of Programming"
+
+* May 2014 - June 2014 **Objective-C. Level 1. iPhone and iPad programming.**  
+GeekBrains, ex. "School of Programming"
+
+* November 2013 - December 2013 **Website promotion in Internet (SEO)**  
 National Research University of Electronic Technology (Moscow, Russia)
 
 * October 2006 – May 2007 **System administrator courses**  
