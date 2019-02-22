@@ -29,7 +29,7 @@ LinkedIn: [Maxim Globak](https://linkedin.com/in/globak)
 ---
 
 * February 2018 - November 2018 (10 months)  
-**iOS Developer** at [OZON.ru](https://www.ozon.ru) Moscow  
+**iOS Developer** at [OZON.ru](https://www.ozon.ru) Moscow, Russia  
 [AppStore link](https://itunes.apple.com/ru/app/ozon-ru-интернет-магазин/id407804998?mt=8) - 220k reviews with 4.9 rating  
     - *Development of specific features and active communication with "feature team"*  
     - *Participation in the choice of technology stack*
@@ -38,7 +38,7 @@ LinkedIn: [Maxim Globak](https://linkedin.com/in/globak)
 Technology: `Objective-C & VIPER, Swift & Clean-Swift, self-written libraries`
 
 * May 2016 - February 2018 (22 months)  
-**iOS Developer** at Itella Connexions LLC [http://icnx.ru](http://icnx.ru) Moscow  
+**iOS Developer** at Itella Connexions LLC [http://icnx.ru](http://icnx.ru) Moscow, Russia  
     - *The development of mobile CRM systems for iOS.* `Full circle` `In-House`
     - *The development of medium to large mobile applications in a team.*
     - *Full development cycle and design of small mobile applications and communication with the backend team.*
@@ -47,7 +47,7 @@ Technology: `Objective-C, Swift, CoreData, ReactiveCocoa, MVVM, Fabric, etc.`
 Clients: Philip Morris, Audi, VW, Philips, Pernod Ricard
 
 * August 2015 - May 2016 (10 months)  
-**iOS Developer** at Service center LLC [http://start-app.ru](http://start-app.ru) Moscow  
+**iOS Developer** at Service center LLC [http://start-app.ru](http://start-app.ru) Moscow, Russia  
     - *Refactoring iOS app 'Krugosvet'*
     - *Writing new functionality*
     - *The publication of the application in AppStore*
@@ -56,19 +56,15 @@ Technology: `Objective-C, Realm, MVC, StoreKit, Core Location & Google maps SDK,
 [Screenshot](https://github.com/GlobakMaxim/CV/blob/master/krugosvet.jpg)
 
 * February 2014 — December 2014 (11 months)  
-**SEO specialist** at Effective site LLC [http://www.analizsaita.ru](www.analizsaita.ru) Moscow   
+**SEO specialist** at Effective site LLC [http://www.analizsaita.ru](www.analizsaita.ru) Moscow, Russia   
 Optimizing websites for search engines. Creating websites based on CMS systems.
 
 * September 2013 — January 2014 (8 months)  
-**Director of zoohotel** at JSC Kennel Club "VUK", Zelenograd  
+**Director of zoohotel** at JSC Kennel Club "VUK", Moscow, Russia  
 Full organization of business from "zero" (zoo hotels). The project sold.
 
 * June 2011 — September 2011 (4 months)  
-**Delivery service** at Brighton Beauty Supply [http://www.brightonbeautysupply.com](http://www.brightonbeautysupply.com), NY  
-
-* May 2009 — may 2011 (2 years 1 month)  
-Top Hall night club (ex. Club Z1) [https://vk.com/tophallclub](https://vk.com/tophallclub) Zelenograd  
-**Waiter, bartender, photographer**  
+**Delivery service** at Brighton Beauty Supply [http://www.brightonbeautysupply.com](http://www.brightonbeautysupply.com), New York, NY, USA  
 
 ## Education
 
@@ -78,7 +74,7 @@ National Research University of Electronic Technology (Moscow, Russia)
 * October 2014 - November 2014 **Swift. Modern programming technology for Apple.**  
 GeekBrains, ex. "School of Programming"
 
-* September 2014 - October 2014 **Objective-C. Level 2. Professioanl application and game development.**  
+* September 2014 - October 2014 **Objective-C. Level 2. Professional application and game development.**  
 GeekBrains, ex. "School of Programming"
 
 * May 2014 - June 2014 **Objective-C. Level 1. iPhone and iPad programming.**  
